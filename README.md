@@ -32,9 +32,16 @@ Data Sources: The data is from dataset https://archive.data.gov.my/data/ms_MY/da
 
 ![Screenshot 2023-09-19 232426](https://github.com/mhmmdsyzwxn182/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848443/6d295852-3f6c-4fe0-9bf4-7d761d348184)
 
-
 6. Reporting and Documentation:
 	Document your methodology, findings, and insights in a clear and concise manner. KNIME allows you to create reports and export visualizations to share with stakeholders. After that Iterate on your analysis as new data becomes available or as you refine your methodology. KNIME provides a flexible environment for adapting your workflow to changing requirements.
+
+![Screenshot 2023-09-19 233432](https://github.com/mhmmdsyzwxn182/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848443/95e5a5f4-dc5d-41d2-b775-cf7932508b1f)
+
+![Screenshot 2023-09-19 233506](https://github.com/mhmmdsyzwxn182/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848443/2cbe95c4-7da5-451e-ae01-bfa9d569e9d6)
+
+![Screenshot 2023-09-19 233602](https://github.com/mhmmdsyzwxn182/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848443/7e23d9a8-047e-4a78-bb50-542e2a3fec44)
+
+
 
 ## Conclusion:
 To conclude, our examination of counterfeit goods seizures in 2018, carried out with the help of KNIME, has provided valuable information about the intricate world of counterfeiting. We have pinpointed types of products that experienced the highest levels of counterfeiting during that year. This sheds light on the industries that are encountering the most significant obstacles. As we Look ahead, this research provides a solid base for future inquiries, forecasting, and cooperative endeavors to address the harmful effects of fake products on the global economy and consumers. It is crucial to take a unified and well-informed approach to tackle this widespread problem and protect the well-being of society.
