@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="viewRepresentation">
+    <entry key="showLegend" type="xboolean" value="true"/>
+    <entry key="autoRange" type="xboolean" value="true"/>
+    <entry key="useDomainInformation" type="xboolean" value="false"/>
+    <entry key="showGrid" type="xboolean" value="true"/>
+    <entry key="showCrosshair" type="xboolean" value="false"/>
+    <entry key="snapToPoints" type="xboolean" value="false"/>
+    <entry key="resizeToWindow" type="xboolean" value="true"/>
+    <entry key="enableViewConfiguration" type="xboolean" value="true"/>
+    <entry key="enableTitleChange" type="xboolean" value="true"/>
+    <entry key="enableSubtitleChange" type="xboolean" value="true"/>
+    <entry key="enableXColumnChange" type="xboolean" value="true"/>
+    <entry key="enableYColumnChange" type="xboolean" value="true"/>
+    <entry key="enableXAxisLabelEdit" type="xboolean" value="true"/>
+    <entry key="enableYAxisLabelEdit" type="xboolean" value="true"/>
+    <entry key="enableDotSizeChange" type="xboolean" value="false"/>
+    <entry key="enablePanning" type="xboolean" value="true"/>
+    <entry key="enableZooming" type="xboolean" value="true"/>
+    <entry key="enableDragZooming" type="xboolean" value="false"/>
+    <entry key="showZoomResetButton" type="xboolean" value="false"/>
+    <entry key="enableSelection" type="xboolean" value="false"/>
+    <entry key="enableRectangleSelection" type="xboolean" value="false"/>
+    <entry key="enableLassoSelection" type="xboolean" value="false"/>
+    <entry key="imageWidth" type="xint" value="800"/>
+    <entry key="imageHeight" type="xint" value="600"/>
+    <entry key="backgroundColor" type="xstring" value="rgba(255,255,255,1.0)"/>
+    <entry key="dataAreaColor" type="xstring" value="rgba(255,255,255,1.0)"/>
+    <entry key="gridColor" type="xstring" value="rgba(230,230,230,1.0)"/>
+    <entry key="hasDataset" type="xboolean" value="true"/>
+    <config key="dataset">
+        <entry key="tableID" type="xstring" value="7a7df56d-d8ac-476f-ac36-7907daef7241"/>
+        <config key="columnKeys">
+            <entry key="array-size" type="xint" value="5"/>
+            <entry key="0" type="xstring" value="Variable"/>
+            <entry key="1" type="xstring" value="Coeff."/>
+            <entry key="2" type="xstring" value="Std. Err."/>
+            <entry key="3" type="xstring" value="t-value"/>
+            <entry key="4" type="xstring" value="P&gt;|t|"/>
+        </config>
+        <config key="symbols_0">
+            <entry key="index" type="xint" value="0"/>
+            <entry key="numSymbols" type="xint" value="3"/>
+            <config key="symbol_0">
+                <entry key="key" type="xstring" value="0"/>
+                <entry key="value" type="xstring" value="JENIS BARANG TIRUAN=LAIN/LAIN"/>
+            </config>
+            <config key="symbol_1">
+                <entry key="key" type="xstring" value="1"/>
+                <entry key="value" type="xstring" value="JENIS BARANG TIRUAN=MAKANAN/KESIHATAN"/>
+            </config>
+            <config key="symbol_2">
+                <entry key="key" type="xstring" value="2"/>
+                <entry key="value" type="xstring" value="Intercept"/>
+            </config>
+        </config>
+        <config key="columnColors">
+            <entry key="array-size" type="xint" value="5"/>
+            <entry key="0" type="xstring" isnull="true" value=""/>
+            <entry key="1" type="xstring" isnull="true" value=""/>
+            <entry key="2" type="xstring" isnull="true" value=""/>
+            <entry key="3" type="xstring" isnull="true" value=""/>
+            <entry key="4" type="xstring" isnull="true" value=""/>
+        </config>
+        <config key="dateTimeFormats">
+            <entry key="array-size" type="xint" value="5"/>
+            <entry key="0" type="xstring" isnull="true" value=""/>
+            <entry key="1" type="xstring" isnull="true" value=""/>
+            <entry key="2" type="xstring" isnull="true" value=""/>
+            <entry key="3" type="xstring" isnull="true" value=""/>
+            <entry key="4" type="xstring" isnull="true" value=""/>
+        </config>
+        <entry key="colPropsSize" type="xint" value="1"/>
+        <entry key="numRows" type="xint" value="3"/>
+        <config key="row_0">
+            <entry key="rowKey" type="xstring" value="Row1"/>
+            <config key="values">
+                <entry key="array-size" type="xint" value="5"/>
+                <entry key="0" type="xstring" value="0.0"/>
+                <entry key="1" type="xstring" value="390254.94733333343"/>
+                <entry key="2" type="xstring" value="422905.6122367066"/>
+                <entry key="3" type="xstring" value="0.9227944393296486"/>
+                <entry key="4" type="xstring" value="0.3778417719884395"/>
+            </config>
+            <entry key="numProperties" type="xint" value="1"/>
+            <config key="property_0">
+                <entry key="key" type="xstring" value="color"/>
+                <entry key="value" type="xstring" value="#404040"/>
+            </config>
+        </config>
+        <config key="row_1">
+            <entry key="rowKey" type="xstring" value="Row2"/>
+            <config key="values">
+                <entry key="array-size" type="xint" value="5"/>
+                <entry key="0" type="xstring" value="1.0"/>
+                <entry key="1" type="xstring" value="-573419.8366666667"/>
+                <entry key="2" type="xstring" value="422905.6122367066"/>
+                <entry key="3" type="xstring" value="-1.3559050059276938"/>
+                <entry key="4" type="xstring" value="0.2049560212804571"/>
+            </config>
+            <entry key="numProperties" type="xint" value="1"/>
+            <config key="property_0">
+                <entry key="key" type="xstring" value="color"/>
+                <entry key="value" type="xstring" value="#404040"/>
+            </config>
+        </config>
+        <config key="row_2">
+            <entry key="rowKey" type="xstring" value="Row3"/>
+            <config key="values">
+                <entry key="array-size" type="xint" value="5"/>
+                <entry key="0" type="xstring" value="2.0"/>
+                <entry key="1" type="xstring" value="652994.2166666667"/>
+                <entry key="2" type="xstring" value="334336.24248399213"/>
+                <entry key="3" type="xstring" value="1.953106285502182"/>
+                <entry key="4" type="xstring" value="0.0793385627895089"/>
+            </config>
+            <entry key="numProperties" type="xint" value="1"/>
+            <config key="property_0">
+                <entry key="key" type="xstring" value="color"/>
+                <entry key="value" type="xstring" value="#404040"/>
+            </config>
+        </config>
+        <entry key="numColorModels" type="xint" value="0"/>
+        <config key="missingValueColumns">
+            <entry key="array-size" type="xint" value="0"/>
+        </config>
+    </config>
+    <entry key="displayFullscreenButton" type="xboolean" value="true"/>
+    <entry key="missingValueMethod" type="xstring" value="missingValueMethod"/>
+    <entry key="showWarningInView" type="xboolean" value="true"/>
+    <entry key="hasWarnings" type="xboolean" value="false"/>
+    <entry key="reportOnMissingValues" type="xboolean" value="true"/>
+    <config key="dateTimeFormats">
+        <entry key="globalDateTimeLocale" type="xstring" value="en"/>
+        <entry key="globalDateFormat" type="xstring" value="YYYY-MM-DD"/>
+        <entry key="globalLocalDateFormat" type="xstring" value="YYYY-MM-DD"/>
+        <entry key="globalLocalDateTimeFormat" type="xstring" value="YYYY-MM-DD"/>
+        <entry key="globalLocalTimeFormat" type="xstring" value="HH:mm:ss"/>
+        <entry key="globalZonedDateTimeFormat" type="xstring" value="YYYY-MM-DD z"/>
+        <entry key="timezone" type="xstring" value="Asia/Kuala_Lumpur"/>
+    </config>
+    <entry key="enforceOrigin" type="xboolean" value="false"/>
+    <entry key="enableLineSizeChange" type="xboolean" value="false"/>
+</config>
