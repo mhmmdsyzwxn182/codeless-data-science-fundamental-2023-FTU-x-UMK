@@ -1,9 +1,6 @@
 # Codeless Data Science Fundamental 2023 FTU x UMK
 
 Welcome to the class
-## Introduction
-This repository is about Data Science Fun. It is implementing KNIME Codeless Tool for doing data science analytics
-
 
 ## Abstract:
 The report will present about counterfeit goods pose a significant challenge to global economies, consumer safety, and intellectual property rights. In 2018, understanding the landscape of counterfeit products and their distribution by type is crucial for effective law enforcement, brand protection, and policy development. This study aims to analyze the number of seizures of counterfeit goods in 2018 across various categories. By examining these seizures, we can gain valuable insights into the dynamics of counterfeit markets, potential threats to public health and safety, and the industries most affected by counterfeiting. This research utilizes data from authoritative sources to provide a comprehensive overview of the counterfeit goods landscape in 2018.
