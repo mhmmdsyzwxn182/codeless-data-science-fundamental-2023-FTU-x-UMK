@@ -30,7 +30,7 @@ Data Sources: The data is from dataset https://archive.data.gov.my/data/ms_MY/da
 4. Data Visualization:
 	Create visualizations to present your findings effectively. KNIME offers various visualization nodes to create charts, graphs, and plots that help you convey the results clearly. After that perform statistical analyses to identify trends and patterns in the data.
 
-![Screenshot (1)](https://github.com/mhmmdsyzwxn182/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848443/98b097a6-4763-4b28-b75e-3d3fe1a43926)
+![Screenshot 2023-09-19 232432](https://github.com/mhmmdsyzwxn182/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848443/b5b6cf0b-898f-415e-bbb2-056364b615fc)
 
 
 ![Screenshot 2023-09-19 232426](https://github.com/mhmmdsyzwxn182/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848443/6d295852-3f6c-4fe0-9bf4-7d761d348184)
