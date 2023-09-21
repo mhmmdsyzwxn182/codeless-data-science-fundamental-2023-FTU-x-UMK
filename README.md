@@ -41,6 +41,7 @@ Data Sources: The data is from dataset https://archive.data.gov.my/data/ms_MY/da
 
 ![Screenshot 2023-09-19 233602](https://github.com/mhmmdsyzwxn182/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848443/7e23d9a8-047e-4a78-bb50-542e2a3fec44)
 
+![Screenshot 2023-09-21 145801](https://github.com/mhmmdsyzwxn182/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848443/f995bcaf-be47-4bee-ac26-38f9972a447c)
 
 
 ## Conclusion:
