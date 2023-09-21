@@ -32,6 +32,9 @@ Data Sources: The data is from dataset https://archive.data.gov.my/data/ms_MY/da
 
 ![Screenshot 2023-09-19 232426](https://github.com/mhmmdsyzwxn182/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848443/6d295852-3f6c-4fe0-9bf4-7d761d348184)
 
+![Screenshot 2023-09-21 161157](https://github.com/mhmmdsyzwxn182/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848443/4406b4e9-e696-4fb7-b76c-2690f2a4e966)
+
+
 6. Reporting and Documentation:
 	Document your methodology, findings, and insights in a clear and concise manner. KNIME allows you to create reports and export visualizations to share with stakeholders. After that Iterate on your analysis as new data becomes available or as you refine your methodology. KNIME provides a flexible environment for adapting your workflow to changing requirements.
 
